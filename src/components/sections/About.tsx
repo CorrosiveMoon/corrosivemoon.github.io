@@ -38,10 +38,10 @@ export default function About() {
               <h2 className="text-4xl md:text-5xl font-bold">About Me</h2>
               <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
                 <p>
-                  Hey there! I'm a passionate AI Engineer and Data Scientist currently pursuing my BSc in Artificial Intelligence and Data Science at New Giza University. 
+                  Hey there! I'm a passionate AI Engineer and Data Scientist. I've recently obtained my BSc in Artificial Intelligence and Data Science at New Giza University, where I build models that (mostly) don’t hallucinate and pipelines that (usually) don’t break.
                 </p>
                 <p>
-                  My journey in the world of AI began with curiosity about how machines can learn and make decisions. Since then, I've been deeply involved in building intelligent systems, training deep learning models, and creating data-driven solutions that solve real-world problems.
+                  I’ve dabbled in everything from building flight phase prediction systems and smart LMS platforms to deploying RAG-powered projects and Premier League dashboards. My projects blend logic, creativity, and questionable amounts of debugging.
                 </p>
                 <p>
                   When I'm not training models or debugging code, you'll find me exploring the latest in AI research, organising university events, or mentoring fellow students. I believe in the power of technology to make a positive impact on the world.
