@@ -102,9 +102,7 @@ export default function Skills() {
                 ☕ Fun Fact
               </p>
               <p className="text-xl font-medium text-center">
-                I've trained more models than I can count, but I still debug with{" "}
-                <code className="bg-muted px-2 py-1 rounded text-sm">print()</code>{" "}
-                statements 😅
+                I once built and trained a model at 3am, with shawerma to my side, blind optimism and unapologetic vibe coding.
               </p>
             </div>
           </div>

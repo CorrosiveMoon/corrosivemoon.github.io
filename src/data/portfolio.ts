@@ -259,7 +259,7 @@ export const portfolioData: PortfolioData = {
   personal: {
     name: "Yassin Hesham",
     title: "Junior Data Scientist by day, AI Engineer by night",
-    description: "I train models, break stuff, then train them better. Fueled by coffee, curiosity, and occasional StackOverflow breakdowns. Let's make machines smarter—before they make fun of us!",
+    description: "I train models, break stuff, then train them better. Fueled by coffee, curiosity, and occasional StackOverflow breakdowns. Hoping to solve real-world problems with intelligent, scalable systems and maybe inspire a few people along the wat. Let's make machines smarter—before they make fun of us!",
     email: "yaseen2003@yahoo.com",
     resumeUrl: "https://drive.google.com/file/d/1yWn10QLSCYmwKa8U8duF49QlYTOeu_5r/view?usp=sharing",
     location: "Cairo, Egypt",
@@ -345,10 +345,10 @@ export const portfolioData: PortfolioData = {
       role: "Data/Software Engineer",
       company: "NGU Alumni Office",
       logo: "/images/ngulogo.webp",
-      duration: "2024 – Present",
-      description: "Designed a custom alumni data portal enabling NGU staff to manage and interact with alumni information effectively.",
+      duration: "2025 – Present",
+      description: "Contributing part-time on a temporary basis in assisting the NGU Alumni Office with internal tooling and data infrastructure improvements. Designed a custom alumni data portal enabling NGU staff to manage and interact with alumni information effectively.",
       achievements: [
-        "Built and deployed an internal Streamlit dashboard connected to MongoDB",
+        "Built and deployed an internal admin and student dashboards and portals using React, connected to MongoDB",
         "Enabled querying alumni profiles, including profile images and contact information",
         "Improved data accessibility and reduced manual overhead for alumni coordination tasks"
       ]

@@ -44,7 +44,7 @@ export default function About() {
                   My journey in the world of AI began with curiosity about how machines can learn and make decisions. Since then, I've been deeply involved in building intelligent systems, training deep learning models, and creating data-driven solutions that solve real-world problems.
                 </p>
                 <p>
-                  When I'm not training models or debugging code, you'll find me exploring the latest in AI research, contributing to open-source projects, or mentoring fellow students. I believe in the power of technology to make a positive impact on the world.
+                  When I'm not training models or debugging code, you'll find me exploring the latest in AI research, organising university events, or mentoring fellow students. I believe in the power of technology to make a positive impact on the world.
                 </p>
               </div>
               
